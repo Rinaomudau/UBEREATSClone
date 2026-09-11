@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="UberEATSClone.MainPage"
+             Title="Uber Eats • Restaurants &amp; Shops"
+             BackgroundColor="#F5F5F5">
+
+    <Grid RowDefinitions="Auto,*" Padding="15">
+
+        <Label Grid.Row="0"
+               Text="Featured Restaurants &amp; Shops"
+               FontSize="22"
+               FontAttributes="Bold"
+               TextColor="Black"
+               Margin="0,5,0,15"/>
+
+        <CollectionView Grid.Row="1"
+                        x:Name="BrandsCollectionView"
+                        SelectionMode="Single"
+                        SelectionChanged="OnBrandSelected">
+
+            <CollectionView.ItemsLayout>
+                <LinearItemsLayout Orientation="Vertical"
+                                   ItemSpacing="15"/>
+            </CollectionView.ItemsLayout>
+
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+
+                    <Border StrokeShape="RoundRectangle 12"
+                            Padding="0"
+                            HeightRequest="180"
+                            BackgroundColor="White"
+                            StrokeThickness="0">
+
+                        <Border.Shadow>
+                            <Shadow Brush="#33000000"
+                                    Offset="0,2"
+                                    Radius="6"
+                                    Opacity="0.2"/>
+                        </Border.Shadow>
+
+                        <Grid RowDefinitions="95,85">
+
+                            <Image Grid.Row="0"
+                                   Source="{Binding ImageUrl}"
+                                   Aspect="AspectFit"
+                                   Margin="10,5,10,5"/>
+
+                            <VerticalStackLayout Grid.Row="1"
+                                                 Padding="12,5,12,10"
+                                                 Spacing="2"
+                                                 BackgroundColor="White">
+
+                                <Label Text="{Binding Name}"
+                                       FontAttributes="Bold"
+                                       FontSize="18"
+                                       TextColor="Black"/>
+
+                                <Label Text="{Binding DeliveryTime}"
+                                       FontSize="13"
+                                       TextColor="Gray"/>
+
+                            </VerticalStackLayout>
+
+                        </Grid>
+
+                    </Border>
+
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+
+        </CollectionView>
+
+    </Grid>
+
+</ContentPage>

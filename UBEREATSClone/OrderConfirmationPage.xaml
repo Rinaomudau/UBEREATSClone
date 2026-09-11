@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="UberEATSClone.Views.OrderConfirmationPage"
+    Title="Order Confirmed">
+
+    <VerticalStackLayout
+        Padding="25"
+        Spacing="20"
+        VerticalOptions="Center">
+
+        <Label
+            Text="🎉"
+            FontSize="70"
+            HorizontalOptions="Center" />
+
+        <Label
+            Text="Order Confirmed!"
+            FontSize="30"
+            FontAttributes="Bold"
+            HorizontalOptions="Center" />
+
+        <Label
+            Text="Thank you for ordering with UberEats."
+            FontSize="16"
+            HorizontalOptions="Center"
+            HorizontalTextAlignment="Center" />
+
+        <Border
+            Padding="20"
+            StrokeShape="RoundRectangle 15">
+
+            <VerticalStackLayout Spacing="12">
+
+                <Label
+                    x:Name="OrderTypeLabel"
+                    FontSize="18" />
+
+                <Label
+                    x:Name="PaymentLabel"
+                    FontSize="18" />
+
+                <Label
+                    x:Name="TotalLabel"
+                    FontSize="24"
+                    FontAttributes="Bold" />
+
+            </VerticalStackLayout>
+
+        </Border>
+
+        <Button
+            Text="Back to Home"
+            BackgroundColor="#00A86B"
+            TextColor="White"
+            FontSize="18"
+            HeightRequest="55"
+            CornerRadius="12"
+            Clicked="Home_Clicked" />
+
+    </VerticalStackLayout>
+
+</ContentPage>

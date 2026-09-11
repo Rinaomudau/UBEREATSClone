@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="UberEATSClone.Views.CheckoutPage"
+    Title="Checkout">
+
+    <ScrollView>
+
+        <VerticalStackLayout
+            Padding="20"
+            Spacing="18">
+
+            <Label
+                Text="Checkout"
+                FontSize="30"
+                FontAttributes="Bold" />
+
+            
+            <Label
+                Text="How would you like to receive your order?"
+                FontSize="18"
+                FontAttributes="Bold" />
+
+            <RadioButton
+                x:Name="DeliveryRadio"
+                Content="Delivery"
+                GroupName="OrderType"
+                IsChecked="True"
+                CheckedChanged="OrderType_CheckedChanged" />
+
+            <RadioButton
+                x:Name="PickupRadio"
+                Content="Pick Up"
+                GroupName="OrderType"
+                CheckedChanged="OrderType_CheckedChanged" />
+
+
+            <VerticalStackLayout
+                x:Name="AddressLayout"
+                Spacing="8">
+
+                <Label
+                    Text="Delivery Address"
+                    FontSize="17"
+                    FontAttributes="Bold" />
+
+                <Entry
+                    x:Name="AddressEntry"
+                    Placeholder="Enter your delivery address" />
+
+            </VerticalStackLayout>
+
+            
+
+            <Label
+                Text="Payment Method"
+                FontSize="18"
+                FontAttributes="Bold" />
+
+            <RadioButton
+                x:Name="CardRadio"
+                Content="💳 Card"
+                GroupName="PaymentMethod"
+                IsChecked="True"
+                CheckedChanged="PaymentMethod_CheckedChanged" />
+
+            <RadioButton
+                x:Name="CashRadio"
+                Content="💵 Cash"
+                GroupName="PaymentMethod"
+                CheckedChanged="PaymentMethod_CheckedChanged" />
+
+            
+             <VerticalStackLayout
+                x:Name="CardDetailsLayout"
+                Spacing="12">
+
+                <Label
+                    Text="Card Details"
+                    FontSize="20"
+                    FontAttributes="Bold" />
+
+                <Entry
+                    x:Name="CardholderNameEntry"
+                    Placeholder="Cardholder Name" />
+
+                <Entry
+                    x:Name="CardNumberEntry"
+                    Placeholder="Card Number"
+                    Keyboard="Numeric"
+                    MaxLength="16" />
+
+                <Grid
+                    ColumnDefinitions="*,*"
+                    ColumnSpacing="10">
+
+                    <Entry
+                        x:Name="ExpiryEntry"
+                        Placeholder="Expiry Date (MM/YY)"
+                        Keyboard="Numeric" />
+
+                    <Entry
+                        x:Name="CvvEntry"
+                        Grid.Column="1"
+                        Placeholder="CVV"
+                        Keyboard="Numeric"
+                        IsPassword="True"
+                        MaxLength="3" />
+
+                </Grid>
+
+                <Label
+                    Text="Demo payment only — no real card payment will be processed."
+                    FontSize="12"
+                    TextColor="Gray" />
+
+            </VerticalStackLayout>
+
+            
+
+            <VerticalStackLayout
+                x:Name="CashDetailsLayout"
+                IsVisible="False"
+                Spacing="8">
+
+                <Label
+                    Text="💵 Cash Payment"
+                    FontSize="18"
+                    FontAttributes="Bold" />
+
+                <Label
+                    Text="Please pay the driver when your order is delivered, or pay at the shop when collecting."
+                    FontSize="14" />
+
+            </VerticalStackLayout>
+
+            
+
+            <BoxView
+                HeightRequest="1" />
+
+            <Label
+                Text="Order Summary"
+                FontSize="20"
+                FontAttributes="Bold" />
+
+            <Label
+                x:Name="SubtotalLabel"
+                FontSize="17" />
+
+            <Label
+                x:Name="DeliveryFeeLabel"
+                FontSize="17" />
+
+            <Label
+                x:Name="TotalLabel"
+                FontSize="24"
+                FontAttributes="Bold" />
+
+            
+
+            <Button
+                Text="Place Order"
+                BackgroundColor="#00A86B"
+                TextColor="White"
+                FontSize="19"
+                FontAttributes="Bold"
+                HeightRequest="55"
+                CornerRadius="12"
+                Clicked="PlaceOrder_Clicked" />
+
+        </VerticalStackLayout>
+
+    </ScrollView>
+
+</ContentPage>

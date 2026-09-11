@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="UberEATSClone.Views.BrandMenuPage"
+    Title="Menu">
+
+    <Grid>
+
+        <ScrollView>
+
+            <VerticalStackLayout
+                Padding="20"
+                Spacing="15">
+
+                <Label
+                    x:Name="BrandTitleLabel"
+                    FontSize="30"
+                    FontAttributes="Bold"
+                    HorizontalOptions="Center" />
+
+                <Label
+                    x:Name="BrandSubtitleLabel"
+                    FontSize="15"
+                    HorizontalOptions="Center" />
+
+                <CollectionView
+                    x:Name="MenuItemsCollectionView"
+                    SelectionMode="None">
+
+                    <CollectionView.ItemTemplate>
+
+                        <DataTemplate>
+
+                            <Border
+                                Padding="10"
+                                Margin="0,5"
+                                StrokeShape="RoundRectangle 15">
+
+                                <VerticalStackLayout
+                                    Spacing="8">
+
+                                    <Image
+                                        Source="{Binding ImageUrl}"
+                                        HeightRequest="180"
+                                        Aspect="AspectFill" />
+
+                                    <Label
+                                        Text="{Binding Name}"
+                                        FontSize="21"
+                                        FontAttributes="Bold" />
+
+                                    <Label
+                                        Text="{Binding Description}"
+                                        FontSize="14" />
+
+                                    <Label
+                                        Text="{Binding Price, StringFormat='R{0:F2}'}"
+                                        FontSize="18"
+                                        FontAttributes="Bold" />
+
+                                    <Button
+                                        Text="Add to Cart"
+                                        BackgroundColor="#00A86B"
+                                        TextColor="White"
+                                        CornerRadius="10"
+                                        Clicked="AddToCart_Clicked"
+                                        CommandParameter="{Binding}" />
+
+                                </VerticalStackLayout>
+
+                            </Border>
+
+                        </DataTemplate>
+
+                    </CollectionView.ItemTemplate>
+
+                </CollectionView>
+
+            </VerticalStackLayout>
+
+        </ScrollView>
+
+        <!-- CART BUTTON -->
+
+        <Button
+            x:Name="CartButton"
+            Text="🛒 Cart (0)"
+            BackgroundColor="#000000"
+            TextColor="White"
+            CornerRadius="25"
+            WidthRequest="150"
+            HeightRequest="55"
+            HorizontalOptions="End"
+            VerticalOptions="End"
+            Margin="20"
+            Clicked="CartButton_Clicked" />
+
+    </Grid>
+
+</ContentPage>

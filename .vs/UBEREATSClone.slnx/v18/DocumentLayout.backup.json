@@ -1,0 +1,462 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\learningnet\\UBEREATSClone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\views\\brandmenupagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\views\\brandmenupagexaml.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\checkoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\checkoutpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\orderconfirmationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\orderconfirmationpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\cartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\cartpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\views\\homepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\views\\coverpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\views\\coverpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\views\\brandspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\views\\brandspage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\views\\branddetailspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\views\\branddetailspage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\checkoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\checkoutpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\cartpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\services\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\orderconfirmationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\orderconfirmationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\models\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\models\\partnerstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\models\\partnerstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\ubereatsclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\ubereatsclone.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.69\\tools\\Xamarin.Android.Aapt2.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\views\\brandmenupagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\views\\brandmenupagexaml.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\views\\coverpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\views\\coverpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|c:\\learningnet\\ubereatsclone\\ubereatsclone\\views\\brandspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E3805F7-A204-DEA7-44D9-C7000FEA954D}|UberEATSClone\\UberEATSClone.csproj|solutionrelative:ubereatsclone\\views\\brandspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandMenuPagexaml.xaml.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\BrandMenuPagexaml.xaml.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Views\\BrandMenuPagexaml.xaml.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\BrandMenuPagexaml.xaml.cs*",
+              "RelativeToolTip": "UBEREATSClone\\Views\\BrandMenuPagexaml.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:05:15.449Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CheckoutPage.xaml.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\CheckoutPage.xaml.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\CheckoutPage.xaml.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\CheckoutPage.xaml.cs",
+              "RelativeToolTip": "UBEREATSClone\\CheckoutPage.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T06:53:56.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\MainPage.xaml.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\MainPage.xaml.cs",
+              "RelativeToolTip": "UBEREATSClone\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA6wA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:28:59.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\MauiProgram.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\MauiProgram.cs",
+              "RelativeToolTip": "UBEREATSClone\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:27:29.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderConfirmationPage.xaml.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\OrderConfirmationPage.xaml.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\OrderConfirmationPage.xaml.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\OrderConfirmationPage.xaml.cs",
+              "RelativeToolTip": "UBEREATSClone\\OrderConfirmationPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAswBEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T06:55:42.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CartPage.xaml.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\CartPage.xaml.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\CartPage.xaml.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\CartPage.xaml.cs",
+              "RelativeToolTip": "UBEREATSClone\\CartPage.xaml.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T06:51:37.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\AppShell.xaml.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\AppShell.xaml.cs",
+              "RelativeToolTip": "UBEREATSClone\\AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T06:45:20.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\App.xaml.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\App.xaml.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\App.xaml.cs",
+              "RelativeToolTip": "UBEREATSClone\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:45:27.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomePage.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\HomePage.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Views\\HomePage.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\HomePage.cs",
+              "RelativeToolTip": "UBEREATSClone\\Views\\HomePage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:16:26.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CoverPage.xaml.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\CoverPage.xaml.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Views\\CoverPage.xaml.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\CoverPage.xaml.cs",
+              "RelativeToolTip": "UBEREATSClone\\Views\\CoverPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:52:48.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BrandsPage.xaml.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\BrandsPage.xaml.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Views\\BrandsPage.xaml.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\BrandsPage.xaml.cs",
+              "RelativeToolTip": "UBEREATSClone\\Views\\BrandsPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:56:28.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BrandDetailsPage.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\BrandDetailsPage.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Views\\BrandDetailsPage.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\BrandDetailsPage.cs",
+              "RelativeToolTip": "UBEREATSClone\\Views\\BrandDetailsPage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T13:01:46.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\MainPage.xaml",
+              "RelativeDocumentMoniker": "UBEREATSClone\\MainPage.xaml",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\MainPage.xaml",
+              "RelativeToolTip": "UBEREATSClone\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-09T13:27:36.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CheckoutPage.xaml",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\CheckoutPage.xaml",
+              "RelativeDocumentMoniker": "UBEREATSClone\\CheckoutPage.xaml",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\CheckoutPage.xaml*",
+              "RelativeToolTip": "UBEREATSClone\\CheckoutPage.xaml*",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-11T06:53:23.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartPage.xaml",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\CartPage.xaml",
+              "RelativeDocumentMoniker": "UBEREATSClone\\CartPage.xaml",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\CartPage.xaml",
+              "RelativeToolTip": "UBEREATSClone\\CartPage.xaml",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAowJgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-11T06:51:02.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\AppShell.xaml",
+              "RelativeDocumentMoniker": "UBEREATSClone\\AppShell.xaml",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\AppShell.xaml",
+              "RelativeToolTip": "UBEREATSClone\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-11T06:44:53.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Services\\CartService.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Services\\CartService.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Services\\CartService.cs",
+              "RelativeToolTip": "UBEREATSClone\\Services\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T06:48:25.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "OrderConfirmationPage.xaml",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\OrderConfirmationPage.xaml",
+              "RelativeDocumentMoniker": "UBEREATSClone\\OrderConfirmationPage.xaml",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\OrderConfirmationPage.xaml",
+              "RelativeToolTip": "UBEREATSClone\\OrderConfirmationPage.xaml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-11T06:55:13.861Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Models\\Brand.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Models\\Brand.cs",
+              "RelativeToolTip": "UBEREATSClone\\Models\\Brand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T12:48:23.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PartnerStore.cs",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Models\\PartnerStore.cs",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Models\\PartnerStore.cs",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Models\\PartnerStore.cs",
+              "RelativeToolTip": "UBEREATSClone\\Models\\PartnerStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T08:31:04.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\App.xaml",
+              "RelativeDocumentMoniker": "UBEREATSClone\\App.xaml",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\App.xaml",
+              "RelativeToolTip": "UBEREATSClone\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-09T13:11:13.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UberEATSClone.csproj",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UberEATSClone\\UberEATSClone.csproj",
+              "RelativeDocumentMoniker": "UberEATSClone\\UberEATSClone.csproj",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UberEATSClone\\UberEATSClone.csproj",
+              "RelativeToolTip": "UberEATSClone\\UberEATSClone.csproj",
+              "ViewState": "AgIAACIAAAAAAAAAAADwvzgAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-11T07:04:17.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Xamarin.Android.Aapt2.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.69\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeDocumentMoniker": "..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.69\\tools\\Xamarin.Android.Aapt2.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.69\\tools\\Xamarin.Android.Aapt2.targets",
+              "RelativeToolTip": "..\\..\\Program Files\\dotnet\\packs\\Microsoft.Android.Sdk.Windows\\36.1.69\\tools\\Xamarin.Android.Aapt2.targets",
+              "ViewState": "AgIAAIAAAACAYWZmZmYGwJsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-09-11T07:09:04.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BrandMenuPagexaml.xaml",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\BrandMenuPagexaml.xaml",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Views\\BrandMenuPagexaml.xaml",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\BrandMenuPagexaml.xaml",
+              "RelativeToolTip": "UBEREATSClone\\Views\\BrandMenuPagexaml.xaml",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowGUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-09T13:02:37.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CoverPage.xaml",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\CoverPage.xaml",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Views\\CoverPage.xaml",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\CoverPage.xaml",
+              "RelativeToolTip": "UBEREATSClone\\Views\\CoverPage.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-09T12:52:39.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BrandsPage.xaml",
+              "DocumentMoniker": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\BrandsPage.xaml",
+              "RelativeDocumentMoniker": "UBEREATSClone\\Views\\BrandsPage.xaml",
+              "ToolTip": "C:\\learningnet\\UBEREATSClone\\UBEREATSClone\\Views\\BrandsPage.xaml",
+              "RelativeToolTip": "UBEREATSClone\\Views\\BrandsPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-09-09T12:56:15.822Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
