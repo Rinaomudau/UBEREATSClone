@@ -91,7 +91,7 @@ namespace UberEATSClone.Views
                     {
                         Name = "Full Cream Milk",
                         Description = "Fresh full cream milk",
-                        Price = 25,
+                        Price = 99,
                         ImageUrl = "pnp_milk.jpg"
                     },
 
